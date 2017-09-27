@@ -10,6 +10,6 @@ public class Main {
 
         System.out.println("Welcome, " + name + " to my small java program!");
         System.out.println("I hope you enjoyed yourself!");
-        System.out.println("GoodBye!");
+        System.out.println("GoodBye");
     }
 }
